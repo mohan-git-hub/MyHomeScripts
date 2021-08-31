@@ -42,6 +42,6 @@ public void getDayWork() {
 		Day dd1 = Day.FRIDAY;
 		dd.getdayinfo();
 		dd1.getdayinfo();
-		
+
 	}
 }
